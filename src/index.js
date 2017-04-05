@@ -19,8 +19,8 @@ class UserState {
     }
 
     setId(id) {
-        this.user.id = id;
-        // this.user = {...this.user, ...{id}};
+        // this.user.id = id;
+        this.user = {...this.user, ...{id}};
     }
 
     generateId() {
