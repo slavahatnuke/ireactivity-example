@@ -6,7 +6,8 @@
     "react-scripts": "0.9.0"
   },
   "dependencies": {
-    "ireactivity": "^0.0.13",
+    "ireactivity": "0.0.13",
+    "prop-types": "^15.5.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
